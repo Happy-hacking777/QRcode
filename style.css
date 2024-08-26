@@ -1,8 +1,5 @@
 
 
-
-}
-
 /* Prevent font size inflation */
 html {
   -moz-text-size-adjust: none;
@@ -83,7 +80,7 @@ body {
 }
 
 
-.mainbox {
+.card {
     background-color: white;
     height: 30rem;
     width: 18rem;
